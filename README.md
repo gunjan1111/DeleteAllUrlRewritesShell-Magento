@@ -7,4 +7,4 @@ Usage: Put the file in your magento root & running this file will Delete All URL
 
 Reasons to use it:
 - To Delete old URL Rewrites
-- Have seen many people posting question to solve -> **"Magento url key has strange numbers added by the system"** or **"Magento - How to remove numbers from product url"** -> So its the answer for it.
+- Have seen many people posting question to solve -> **"Magento url is having strange numbers added by the system"** or **"Magento - How to remove numbers from product url"** -> So its the answer for it.
